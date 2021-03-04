@@ -2,7 +2,7 @@
 
 ![](https://badges.pufler.dev/visits/tranthanhvu/tranthanhvu?color=black&logo=github)
 
-- I’m a software engineer with over 8 years of iOS development experience. 
+- I’m a software engineer with over 7 years of iOS development experience. 
 - I'm also an indie game developer, I created and published some games developing with Unity.
 
 ### ⭐️ Interested Development Areas 
