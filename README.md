@@ -6,7 +6,7 @@
 - I'm also an indie game developer, I created and published some games developing with Unity.
 
 ### ⭐️ Interested Development Areas 
-- Currently, I'm also interested in Fluter and SwiftUI.
+- Currently, I'm also interested in Flutter and SwiftUI.
 - Machine learning technologies and Computer vision technologies are my interesting development areas, but I don't have a chance to work on these fields.
 
 ### 🌹 Current App 
